@@ -29,4 +29,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 4. Needy Girl Overdose
 5. Mario
 6. Monster Hunter
-7. Grand Theft Auto V
+7. fan-tan (card game)
+8. Apex Legends
+9. Mario Kart 8DX
+10.Grand Theft Auto V
