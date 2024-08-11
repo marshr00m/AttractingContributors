@@ -26,6 +26,7 @@ My goal is to have contributors help me list some attractive cities they would l
 - Tokyo (Japan)
 - Bangkok (Thailand)
 - London (England)
+- Pari(France)
 - Okinawa（Japan）
 - Chinese Taipei
 - Kyoto (japan)
