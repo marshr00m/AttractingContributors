@@ -35,3 +35,4 @@ My goal is to have contributors help me list some attractive cities they would l
 - Sapporo (Japan)
 - Barcelona (Spain)
 - Tokyo(Japan)
+- Hyogo (japan)
